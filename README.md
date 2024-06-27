@@ -32,7 +32,7 @@
 
 <p align="center">
 
-<a href="https://github.com/kmaodus/moviesMERN">
+
 
 <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
 
@@ -76,7 +76,7 @@ Project for Database theory course at Faculty of Organization and Informatics
 
 ## About The Project
 
-Practicing MERN stack. TMDb API used for this project. --> https://www.themoviedb.org/
+
 
 ### Built With
 
@@ -160,7 +160,7 @@ You can register if you want to add movies in your favorites list, otherwise you
 
 ## Roadmap
 
-See the [open issues](https://github.com/kmaodus/moviesMERN/issues) for a list of proposed features (and known issues).
+
 
 <!-- CONTRIBUTING -->
 
@@ -188,7 +188,7 @@ Distributed under the MIT License.
 
 ## Contact
 
-Project Link: [https://github.com/kmaodus/moviesMERN](https://github.com/kmaodus/moviesMERN)
+
 
 <!-- ACKNOWLEDGEMENTS -->
 
