@@ -38,7 +38,7 @@
 
 </a>
 
-<h3 align="center">College project (TBP) - FOI 2020</h3>
+
 
 <p align="center">
 
@@ -112,7 +112,7 @@ npm install npm@latest -g
 
 ```sh
 
-git clone https://github.com/kmaodus/moviesMERN.git
+git clone https://github.com/Rahul4533/Movie-App.git
 
 ```
 
